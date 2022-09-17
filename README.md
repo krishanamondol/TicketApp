@@ -1,5 +1,5 @@
 # TicketApp
-Yo use this logic system for buying tickets 
+You use this logic system for buying tickets 
 ## How To Use Test & Run This code
 download this repository and run the code
 ### Which Technology I Use 
